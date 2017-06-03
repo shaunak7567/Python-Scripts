@@ -15,6 +15,7 @@ def fact(n):
 
 print(fact(5))
 logging.debug('End of program')
+logging.debug('Push On Github')
 
 #################Logging Modes #################
 
@@ -23,4 +24,4 @@ logging.debug('End of program')
 #logging.warning(msg) --------------  Used to indicate a potential issue that doesnt prevent program from working but might do so in future
 #logging.critical(msg) --------------
 #logging.basicConfig()--------------
-        
+#MyScripts
